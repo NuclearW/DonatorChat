@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.nuclearw.donatorchat</groupId>
     <artifactId>DonatorChat</artifactId>
-    <version>0.1</version>
+    <version>0.2</version>
     <name>DonatorChat</name>
     <url>https://github.com/NuclearW/DonatorChat</url>
     <issueManagement>
