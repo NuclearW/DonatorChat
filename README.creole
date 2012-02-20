@@ -1,0 +1,7 @@
+== DonatorChat
+
+DonatorChat is a light-weight donator chat channel plugin
+
+=== Compiling
+
+Maven 3 is required to compile DonatorChat

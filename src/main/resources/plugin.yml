@@ -1,0 +1,18 @@
+name: DonatorChat
+main: com.nuclearw.donatorchat.DonatorChat
+version: ${project.version}
+author: NuclearW
+description: DonatorChat is a light-weight donator chat channel plugin
+commands:
+    d:
+        description: Toggle donatorchat or send donatorchat messages
+        permission: donatorchat.use
+permissions:
+    donatorchat.*:
+        description: Implies all donatorchat permissions.
+        children:
+            donatorchat.use: true
+            
+    donatorchat.use:
+        default: op
+        description: use donatorchat
